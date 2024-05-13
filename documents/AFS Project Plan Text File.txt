@@ -1,0 +1,27 @@
+Record Type
+
+Small Business Object - Standard Object Account and Create Record Type
+Standard Opportunity Object - Grants/Deals/Agreements Create Record Type
+
+
+Make the Application first
+Application Step next
+
+To solve the regional
+
+Regional Sharing Rules
+
+OWD for this custom object private
+
+Regional VP
+
+Each region
+
+Do it in sharing location
+
+Where do i make the location picklist?
+
+
+---------
+
+
